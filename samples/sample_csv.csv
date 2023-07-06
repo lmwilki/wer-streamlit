@@ -1,3 +1,3 @@
 input,ground_truth
-The quick brown fox jumps up the lazy dog,The quick brown fox jumps up the lazy dog
-The sun rises in the east and sits in the west,The sun rises in the east and sits in the west
+The quick brown fox jumps up the lazy dog,The quick brown fox jumps over the lazy dog
+The sun rises in the east and sits in the west,The sun rises in the east and sets in the west
